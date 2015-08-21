@@ -1,0 +1,36 @@
+{
+    "name": "yangjunlong",
+    "description": "杨军龙的个人简历",
+    "version": "0.0.4",
+    "main": "resume.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/crossyou/resume.git"
+    },
+    "dependencies": {},
+    "keywords": [
+        "yangjunlong",
+        "杨军龙",
+        "resume",
+        "个人简历",
+        "cv",
+        "简历"
+    ],
+    "bugs": {
+        "url": "https://github.com/yangjunlong/resume/issues"
+    },
+    "author": {
+        "name": "yangjunlong"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/yangjunlong/resume/blob/master/LICENSE"
+        }
+    ],
+    "readme": "",
+    "readmeFilename": "README.md"
+}
