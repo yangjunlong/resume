@@ -31,10 +31,10 @@
 ## 工作经历
 `2012.7` ~ `至今` [百度](https://www.baidu.com/)
 
-> 先后在[百度知道](http://zhidao.baidu.com/)，[百度经验](http://jingyan.baidu.com/)亿级产品线负责WBE前端开发工作。
+> 先后在[百度知道](http://zhidao.baidu.com/)，[百度经验](http://jingyan.baidu.com/)亿级产品线负责Web前端开发工作。
 
 `2011.5` ~ `2012.6` [高德](http://autonavi.com/)
-> 主要工作：Mapabc Javascript API 控件代码编写，Web 页面的设计及产品代码重构，制图项目(地图样式编辑器)的前端开发工作
+> Mapabc Javascript API 控件代码编写，Web页面的设计及产品代码重构，制图项目(地图样式编辑器)的前端开发工作
 
 `2010.7` ~ `2011.4` [普加](http://www.pujia.com/)
 > 负责公司Javascript开发,公司门户页面交互效果的实现，PHP程序开发~

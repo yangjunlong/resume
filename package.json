@@ -1,14 +1,14 @@
 {
     "name": "yangjunlong",
     "description": "杨军龙的个人简历",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "main": "resume.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/crossyou/resume.git"
+        "url": "https://github.com/yangjunlong/resume.git"
     },
     "dependencies": {},
     "keywords": [
