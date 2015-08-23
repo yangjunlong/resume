@@ -123,15 +123,15 @@
 ## 最后
 如果你觉得我的简历还不错的话，欢迎加我微信好友
 
-<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/_/wechat.jpg" alt="微信加好友" title="微信加好友~" width="250px" />
+<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/wechat.jpg" alt="微信加好友" title="微信加好友~" width="250px" />
 
 或者，通过支付宝打赏我
 
-<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/_/alipay.jpg" alt="支付宝打赏" title="支付宝打赏~" width="250px" />
+<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/alipay.jpg" alt="支付宝打赏" title="支付宝打赏~" width="250px" />
 
 又或者，你跟我很熟？
 
-<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/_/zhuang13.jpg" alt="简历求扩散" title="简历求扩散~" width="250px" />
+<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/zhuang13.jpg" alt="简历求扩散" title="简历求扩散~" width="250px" />
 
 那么，请`速扩散`此`简历`~
 
