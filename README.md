@@ -23,7 +23,7 @@
 
 做过：[读书](http://thing.douban.com/subject/759/)，[放风筝](http://thing.douban.com/subject/38/)，[摄影](http://www.douban.com/thing/185/)，[骑行](http://www.douban.com/thing/102/)，[搭讪](http://www.douban.com/thing/198/)，[做梦](http://thing.douban.com/subject/556/)，[下厨房](http://www.douban.com/thing/2035/)，[看电影](http://www.douban.com/thing/237/)，[修数码产品](http://www.douban.com/thing/2121/)...
 
-职业：`前端开发工程师`
+职业：`前端开发工程师` · `北京`
 
 ## 教育经历
 2006年9月 ~ 2010年6月 [山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科
