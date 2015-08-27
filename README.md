@@ -121,11 +121,7 @@
 博客：[http://sobird.me](http://sobird.me)
 
 ## 最后
-如果你觉得我的简历还不错的话，欢迎加我微信好友
-
-<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/wechat.jpg" alt="微信加好友" title="微信加好友~" width="250px" />
-
-或者，通过支付宝打赏我
+如果你觉得我的简历还不错的话，通过支付宝打赏我
 
 <img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/alipay.jpg" alt="支付宝打赏" title="支付宝打赏~" width="250px" />
 
