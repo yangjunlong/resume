@@ -1,16 +1,14 @@
 # 个人简历
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/yangjunlong/resume/blob/master/LICENSE)
 [![NPM version](https://badge.fury.io/js/yangjunlong.png)](http://badge.fury.io/js/yangjunlong)
-
-[![NPM Download](https://nodei.co/npm-dl/yangjunlong.png?months=1)](https://www.npmjs.org/package/yangjunlong)
-
 > There is only one heroism in the world：to see the world as it is and to love it.
 
 ## 自我介绍
 > 拥有五年WEB前端开发经验、优秀的互联网基因，有亿级PV产品线大型项目经验，具有一定的前端架构能力，熟悉敏捷开发流程，熟练使用svn、git、sublime等开发工具。
 
-> 目前因个人职业发展原因，近期准备从`百度辞职`，跪求大神掳走~
+> 偶将时刻关注给力offer中ing...
 
-> `世界那么大，我想去看看`
+> <del>世界那么大，我想去看看</del>
 
 ## 个人信息
 姓名：杨军龙
@@ -26,18 +24,24 @@
 职业：`前端开发工程师` · `北京`
 
 ## 教育经历
-2006年9月 ~ 2010年6月 [山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科
+`2006.9` ~ `2010.6` [山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科
 
 ## 工作经历
-`2012.7` ~ `至今` [百度](https://www.baidu.com/)
+`2012.7` ~ `2015.9` [百度](https://www.baidu.com/)
 
-> 先后在[百度知道](http://zhidao.baidu.com/)，[百度经验](http://jingyan.baidu.com/)亿级产品线负责Web前端开发工作。
+> [百度知道](http://zhidao.baidu.com/)，前端优化
+
+> [百度经验](http://jingyan.baidu.com/)，FIS升级，前端性能优化，mis系统前端重构
 
 `2011.5` ~ `2012.6` [高德](http://autonavi.com/)
-> Mapabc Javascript API 控件代码编写，Web页面的设计及产品代码重构，制图项目(地图样式编辑器)的前端开发工作
+> [mapabc](http://code.mapabc.com/class.html?ajax) 控件编写，Web页面的设计及产品代码重构
+
+> 制图项目(地图样式编辑器)的前端开发工作
 
 `2010.7` ~ `2011.4` [普加](http://www.pujia.com/)
-> 负责公司Javascript开发,公司门户页面交互效果的实现，PHP程序开发~
+> 负责公司Javascript开发,公司门户页面交互效果的实现，PHP程序开发。
+
+> 开发并维护公司地图、公交及其相关产品的开发。
 
 ## 个人能力
 * `具有连续加班到晚11点20天+的经历&能力`。
@@ -45,6 +49,8 @@
 * 熟悉 tangram，jQuery，Bootstrap，zepto 等业界基础库,了解 ReactJs、AngularJs 等。
 * 熟悉基于 FIS 架构前端开发，具有通过该解决方案快速构造重交互页面的能力。
 * 熟悉 PHP 语言，对于前端常见错误问题具有快速定位解决问题的能力。
+* 熟练掌握PHP+MySql，熟悉MVC开发。
+* 熟练操作Linux系统，熟悉LAMP配置优化及SVN服务搭建配置。
 * 熟悉 nodejs，npm 包开发与发布，熟练使用 git 和 svn 等基础工具。
 * 具有团队文档平台建设经验，对前端开发代码规范化,平台化,工具化有一定的探索能力。
 
