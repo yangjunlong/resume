@@ -129,7 +129,7 @@
 ## 最后
 如果你觉得我的简历还不错的话，通过支付宝打赏我
 
-<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/alipay.jpg" alt="支付宝打赏" title="支付宝打赏~" width="250px" />
+<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/weixin.jpg" alt="微信捐赠" title="微信捐赠" />
 
 又或者，你跟我很熟？
 
