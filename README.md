@@ -27,6 +27,9 @@
 `2006.9` ~ `2010.6` [山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科
 
 ## 工作经历
+`2015.9` ~ `至今` [58](https://www.58.com/)
+> [58金融](http://jinrong.58.com/)，前端架构与优化
+
 `2012.7` ~ `2015.9` [百度](https://www.baidu.com/)
 
 > [百度知道](http://zhidao.baidu.com/)，前端优化
