@@ -4,7 +4,7 @@
 > There is only one heroism in the world：to see the world as it is and to love it.
 
 ## 自我介绍
-> 拥有五年WEB前端开发经验、优秀的互联网基因，有亿级PV产品线大型项目经验，具有一定的前端架构能力，熟悉敏捷开发流程，熟练使用svn、git、sublime等开发工具。
+> 拥有近6年WEB前端开发经验、优秀的互联网基因，有亿级PV产品线大型项目经验，具有一定的前端架构能力，熟悉敏捷开发流程，熟练使用svn、git、sublime等开发工具。
 
 > 偶将时刻关注给力offer中ing...
 
@@ -47,12 +47,12 @@
 > 开发并维护公司地图、公交及其相关产品的开发。
 
 ## 个人能力
-* `具有连续加班到晚11点20天+的经历&能力`。
+* <del>`具有连续加班到晚11点20天+的经历&能力`。</del>
 * 熟悉使用 javascript，html，css开发，能够精确实现UE图稿到交互页面。
-* 熟悉 jQuery，Bootstrap，zepto，tangram， 等业界基础库,了解 ReactJs等。
+* 熟悉 jQuery，Bootstrap，zepto，tangram等业界基础库。
 * 熟悉基于 FIS 架构前端开发，具有通过该解决方案快速构造重交互页面的能力。
 * 熟悉 PHP 语言，对于前端常见错误问题具有快速定位解决问题的能力。
-* 熟练掌握PHP+MySql，熟悉MVC开发。
+* 熟练掌握PHP + MySql，熟悉MVC开发。
 * 熟练操作Linux系统，熟悉LAMP配置优化及SVN服务搭建配置。
 * 熟悉 nodejs，npm 包开发与发布，熟练使用 git 和 svn 等基础工具。
 * 可快速使用AngularJs构建SAP(单页面应用)的MIS系统。
@@ -138,7 +138,7 @@
 ## 联系方式
 邮箱：583528957@qq.com
 
-博客：[http://sobird.me](http://sobird.me)
+博客：[https://sobird.me](https://sobird.me)
 
 ## 最后
 如果你觉得我的简历还不错的话，通过支付宝打赏我
