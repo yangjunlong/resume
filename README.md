@@ -26,7 +26,10 @@
 `2006.9` ~ `2010.6` [山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科
 
 ## 工作经历
-`2015.9` ~ `至今` [58](https://www.58.com/)
+`2016.5` ~ `至今` [小米](https://www.xiaomi.com/)
+> 小米支付，前端开发，欢迎来骚扰
+
+`2015.9` ~ `2016.5` [58](https://www.58.com/)
 > [58金融](http://jinrong.58.com/)，[58月付](http://yuefu.58.com)，[品质公寓](http://gongyu.58.com)等产品的前端架构与优化
 
 `2012.7` ~ `2015.9` [百度](https://www.baidu.com/)
@@ -150,6 +153,7 @@
 
 那么，请`速扩散`此`简历`~
 
+#### 彩蛋? :blush:
 [前端面试题库](https://github.com/yangjunlong/resume/wiki)
 
 ## 致谢
