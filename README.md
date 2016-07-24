@@ -27,7 +27,7 @@
 
 ## 工作经历
 `2016.5` ~ `至今` [小米](https://www.xiaomi.com/)
-> 小米支付，前端开发，欢迎来骚扰
+> [小米支付](https://www.mipay.com/)，前端开发，欢迎来骚扰
 
 `2015.9` ~ `2016.5` [58](https://www.58.com/)
 > [58金融](http://jinrong.58.com/)，[58月付](http://yuefu.58.com)，[品质公寓](http://gongyu.58.com)等产品的前端架构与优化
