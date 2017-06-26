@@ -3,11 +3,7 @@
 > There is only one heroism in the world：to see the world as it is and to love it.
 
 ## 自我介绍
-> 拥有近6年WEB前端开发经验、优秀的互联网基因，有亿级PV产品线大型项目经验，具有一定的前端架构能力，熟悉敏捷开发流程，熟练使用svn、git、sublime等开发工具。
-
-> 偶将时刻关注给力offer中ing...
-
-> <del>世界那么大，我想去看看</del>
+> 7年+WEB前端开发经验，主攻前端和PHP开发，有亿级PV产品线项目经验，带领3人团队从零构建一个WEB前端项目，包含了视频播放、地图展示、个人中心等功能。对模块化、组件化、性能优化有一定研究。
 
 ## 个人信息
 姓名：杨军龙
@@ -16,35 +12,37 @@
 
 籍贯：山东
 
-爱好：不求甚解的阅读，心无旁骛的工作，情不自禁的去爱，说走就坐车的旅行...
-
-做过：[读书](http://thing.douban.com/subject/759/)，[放风筝](http://thing.douban.com/subject/38/)，[摄影](http://www.douban.com/thing/185/)，[骑行](http://www.douban.com/thing/102/)，[搭讪](http://www.douban.com/thing/198/)，[做梦](http://thing.douban.com/subject/556/)，[下厨房](http://www.douban.com/thing/2035/)，[看电影](http://www.douban.com/thing/237/)，[修数码产品](http://www.douban.com/thing/2121/)...
-
 职业：`前端开发工程师` · `北京`
 
 ## 教育经历
 `2006.9` ~ `2010.6` [山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科
 
 ## 工作经历
-`2016.5` ~ `至今` [小米](https://www.xiaomi.com/)
-> [小米支付](https://www.mipay.com/)，前端开发，欢迎来骚扰
+- `2016.5` ~ `至今` [小米](https://www.mi.com/)
+	- [x] 负责小米钱包，话费充值、生活缴费等应用开发
+	- [x] 封装小米钱包Hybrid jssdk基础库
+	- [x] 前端性能(用户行为)数据收集
+	- [x] 负责后台系统的前端开发，产出[mix-dashboard](https://yangjunlong.github.io/mix-dashboard/)框架并应用到项目中
 
-`2015.9` ~ `2016.5` [58](https://www.58.com/)
-> [58金融](http://jinrong.58.com/)，[58月付](http://yuefu.58.com)，[品质公寓](http://gongyu.58.com)等产品的前端架构与优化
+- `2015.9` ~ `2016.5` [58](https://www.58.com/)
+	- [x] 品质公寓项目前端负责人(包括前台房屋信息展示及后台房屋信息录入)，带领团队从零构建
+	- [x] 负责项目前端架构，模块化，组件化，组员按模块负责并行开发
 
-`2012.7` ~ `2015.9` [百度](https://www.baidu.com/)
+- `2012.7` ~ `2015.9` [百度](https://www.baidu.com/)
+	- [x] 重构百度经验详细页面
+	- [x] 重构百度经验个人中心
+	- [x] 百度经验财富商城开发
 
-> [百度知道](http://zhidao.baidu.com/)，前端优化
+- `2011.5` ~ `2012.6` [高德](http://autonavi.com/)
+	- [x] mapabc地图鱼骨控件编写
+	- [x] 基于edojs框架的地图样式编辑器开发
+	- [x] 地图API使用手册站点开发
 
-> [百度经验](http://jingyan.baidu.com/)，FIS升级，前端性能优化，mis系统前端重构
-
-`2011.5` ~ `2012.6` [高德](http://autonavi.com/)
-> [mapabc](http://code.mapabc.com/class.html?ajax) 控件编写，Web页面的设计及产品代码重构
-
-> 制图项目(地图样式编辑器)的前端开发工作
-
-`2010.7` ~ `2011.4` [普加](http://www.pujia.com/)
-> 负责公司Javascript开发,公司门户页面交互效果的实现，PHP程序开发。
+- `2010.7` ~ `2011.4` [普加](http://www.pujia.com/)
+	- [x] 公交地图站点数据爬虫编写
+	- [x] 自定义地图小工具代码编写
+	- [x] jQuery图片轮播插件编写
+	- [x] 学会使用svn，linux命令，lamp环境搭建等
 
 > 开发并维护公司地图、公交及其相关产品的开发。
 
