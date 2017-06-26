@@ -22,19 +22,22 @@
 	- [x] 负责小米钱包，话费充值、生活缴费等应用开发
 	- [x] 封装小米钱包Hybrid jssdk基础库
 	- [x] 前端性能(用户行为)数据收集
-	- [x] 负责后台系统的前端开发，产出[mix-dashboard](https://yangjunlong.github.io/mix-dashboard/)框架并应用到项目中
+	- [x] 负责后台系统的前端开发
 
 - `2015.9` ~ `2016.5` [58](https://www.58.com/)
 	- [x] 品质公寓项目前端负责人(包括前台房屋信息展示及后台房屋信息录入)，带领团队从零构建
-	- [x] 负责项目前端架构，模块化，组件化，组员按模块负责并行开发
+	- [x] 负责项目前端架构，模块化，组件化
+	- [x] 基于jello + velocity 前后端分离
 
 - `2012.7` ~ `2015.9` [百度](https://www.baidu.com/)
 	- [x] 重构百度经验详细页面
 	- [x] 重构百度经验个人中心
 	- [x] 百度经验财富商城开发
+	- [x] 百度经验项目模块FIS升级&性能优化
+	- [x] 团队文档基础规范建设
 
 - `2011.5` ~ `2012.6` [高德](http://autonavi.com/)
-	- [x] mapabc地图鱼骨控件编写
+	- [x] MapABC地图鱼骨等控件编写
 	- [x] 基于edojs框架的地图样式编辑器开发
 	- [x] 地图API使用手册站点开发
 
@@ -43,20 +46,16 @@
 	- [x] 自定义地图小工具代码编写
 	- [x] jQuery图片轮播插件编写
 	- [x] 学会使用svn，linux命令，lamp环境搭建等
-
-> 开发并维护公司地图、公交及其相关产品的开发。
+	- [x] [Mapbar经纬坐标偏移的加/解密算法](http://sobird.me/latitude-and-longitude-coordinates-offset-will-mapbar-encryption-decryption-algorithm.htm)
 
 ## 个人能力
-* <del>`具有连续加班到晚11点20天+的经历&能力`。</del> 老了~
-* 熟练使用`Javascript`、`Html`、`Css开发，能够精确实现UE图稿到交互页面。
-* 熟悉`jQuery`、`Bootstrap`、`zepto`、`tangram`等业界基础库。
-* 熟悉基于`FIS`架构前端开发，具有通过该解决方案快速构造重交互页面的能力。
-* 熟悉`PHP`语言，对于前端常见错误问题具有快速定位解决问题的能力。
-* 熟练掌握`PHP + MySql`，熟悉MVC开发。
-* 熟练操作`Linux`系统，熟悉LAMP配置优化及SVN服务搭建配置。
-* 熟悉`nodejs`、`npm`包开发与发布，熟练使用 git 和 svn 等基础工具。
-* 可快速使用`AngularJs`构建SPA(单页面应用)的MIS系统。
-* 具有团队文档平台建设经验，对前端开发代码`规范化`、`平台化`、`工具化`有一定的探索能力。
+* 精确实现UE图稿到交互页面
+* 熟悉fis-kernel源码
+* 熟悉`PHP`，开发了个人框架:[hating](https://github.com/yangjunlong/hating)，语法高亮库:[SyntaxHighLighter](https://github.com/yangjunlong/SyntaxHighLighter)
+* 熟悉`Node.js`、`NPM`包开发与发布
+* 熟练操作`Linux`系统，通过WEB日志快速定位问题
+* 熟练使用`AngularJS`，`Vue`构建SPA(单页面应用)后台系统
+* 具有团队文档平台建设经验，对前端开发代码`规范化`、`平台化`、`工具化`有一定的探索能力
 
 ## 项目经历
 **58品质公寓项目**(2015.12 ~ 2016.1)
@@ -138,7 +137,7 @@
 ## 联系方式
 邮箱：583528957@qq.com
 
-博客：[https://sobird.me](https://sobird.me)
+博客：[http://sobird.me](http://sobird.me)
 
 ## 最后
 如果你觉得我的简历还不错的话，通过支付宝打赏我
