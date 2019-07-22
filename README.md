@@ -1,28 +1,25 @@
 # 个人简历
-[![NPM version](https://badge.fury.io/js/yangjunlong.png)](http://badge.fury.io/js/yangjunlong)
+[![version](https://badge.fury.io/js/yangjunlong.png)](http://badge.fury.io/js/yangjunlong)
 > There is only one heroism in the world：to see the world as it is and to love it.
 
 ## 自我介绍
-> 7年+WEB前端开发经验，主攻前端和PHP开发，有亿级PV产品线项目经验，带领3人团队从零构建一个WEB前端项目，包含了视频播放、地图展示、个人中心等功能。对模块化、组件化、性能优化有一定研究。
+> 9年+WEB前端开发经验，主攻前端和NodeJS开发，有亿级PV产品线项目经验，带领3人团队从零构建一个WEB前端项目，包含了视频播放、地图展示、个人中心等功能。对模块化、组件化、性能优化有一定研究。
 
 ## 个人信息
-姓名：杨军龙
-
-性别：男
-
-籍贯：山东
-
-职业：`前端开发工程师` · `北京`
+* 姓名：杨军龙
+* 性别：男
+* 籍贯：山东
+* 职业：![职业](https://img.shields.io/badge/前端工程师-北京-blue.svg?style=flat-square)
 
 ## 教育经历
 `2006.9` ~ `2010.6` [山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科
 
 ## 工作经历
-- `2016.5` ~ `至今` [小米](https://www.mi.com/)
+- `2016.5` ~ `2019.5` [小米](https://www.mi.com/)
 	- [x] 负责小米钱包，话费充值、生活缴费等应用开发
 	- [x] 封装小米钱包Hybrid jssdk基础库
 	- [x] 前端性能(用户行为)数据收集
-	- [x] 负责后台系统的前端开发
+	- [x] 负责中后台系统的前端开发
 
 - `2015.9` ~ `2016.5` [58](https://www.58.com/)
 	- [x] 品质公寓项目前端负责人(包括前台房屋信息展示及后台房屋信息录入)，带领团队从零构建
