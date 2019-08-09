@@ -8,7 +8,7 @@
 ## 个人信息
 * 姓名：杨军龙
 * 性别：男
-* 籍贯：山东
+* 籍贯：山东▪临沂
 * 职业：![职业](https://img.shields.io/badge/前端工程师-北京-blue.svg?style=flat-square)
 
 ## 教育经历
@@ -45,35 +45,21 @@
 	- [x] 学会使用svn，linux命令，lamp环境搭建等
 	- [x] [Mapbar经纬坐标偏移的加/解密算法](http://sobird.me/latitude-and-longitude-coordinates-offset-will-mapbar-encryption-decryption-algorithm.htm)
 
-## 个人能力
+## 编程能力
+* 熟悉程度：`JavaScript` > `NodeJs` > `PHP` > `HTML5` > `CSS3`
 * 精确实现UE图稿到交互页面
-* 熟悉fis-kernel源码
-* 熟悉`PHP`，开发了个人框架:[hating](https://github.com/yangjunlong/hating)，语法高亮库:[SyntaxHighLighter](https://github.com/yangjunlong/SyntaxHighLighter)
-* 熟悉`Node.js`、`NPM`包开发与发布
-* 熟练操作`Linux`系统，通过WEB日志快速定位问题
-* 熟练使用`AngularJS`，`Vue`构建SPA(单页面应用)后台系统
-* 具有团队文档平台建设经验，对前端开发代码`规范化`、`平台化`、`工具化`有一定的探索能力
+* 熟练操作`Linux`系统，熟悉LA(N)MP环境部署配置
+* 熟练使用`VueJs`全家桶，了解源码实现
+* 对前端开发`规范化`、`平台化`、`工具化`有一定的探索能力
 
 ## 联系方式
-邮箱：583528957@qq.com
-
-博客：[http://sobird.me](http://sobird.me)
-
-## 最后
-如果你觉得我的简历还不错的话，通过支付宝打赏我
-
-<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/weixin.jpg" alt="微信捐赠" title="微信捐赠" />
-
-又或者，你跟我很熟？
-
-<img src="https://raw.githubusercontent.com/yangjunlong/resume/master/assets/zhuang13.jpg" alt="简历求扩散" title="简历求扩散~" width="250px" />
-
-那么，请`速扩散`此`简历`~
+* 邮箱：583528957@qq.com
+* 博客：[http://sobird.me](http://sobird.me)
 
 #### 彩蛋? :blush:
 [前端面试题库](https://github.com/yangjunlong/resume/wiki)
 
 ## 致谢
-谨在此向所有在我求职过程中帮助过我的小伙伴们表示感谢！
+感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 如果你对此简历有任何问题，欢迎提[issue](https://github.com/yangjunlong/resume/issues)。
