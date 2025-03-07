@@ -1,7 +1,10 @@
-<h1 align="center"> 杨军龙 <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-i%40sobird.me-brightgreen?logo=gmail&labelColor=blue&style=social" alt="email" style="max-width: 100%;"></h1>
+<h1 align="center">杨军龙</h1>
 
-[![npm][npm]][npm-url]
-[![Build Status][build-status]][build-status-url]
+<p align="center">
+<img src="https://img.shields.io/badge/%E7%94%B5%E8%AF%9D-15321871599-brightgreen?labelColor=blue&style=social" style="display: none;" alt="phone">
+
+<img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-i%40sobird.me-brightgreen?logo=gmail&labelColor=blue&style=social" alt="email">
+</p>
 
 ## 自我介绍
 > 先后曾在百度、小米、美团任职前端开发工程师，对大型复杂前端项目架构有丰富的经验，熟练使用Linux开发环境，熟练使用TypeScript开发，目前使用TypeScript开发了一个在本地运行[Github Acionts](https://developer.github.com/actions/)的开源工具[actions](https://github.com/sobird/actions)，用来运行本地仓库中定义的各种工作流。
@@ -46,6 +49,9 @@
 [![github][github]][github-url]
 
 ## 致谢
+
+[![Build Status][build-status]][build-status-url]
+
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 如果你对此简历有任何问题，欢迎提[issue](https://github.com/yangjunlong/resume/issues)。

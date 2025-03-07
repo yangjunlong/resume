@@ -1,7 +1,6 @@
 import fs from 'fs';
 
 import { marked } from 'marked';
-import puppeteer from 'puppeteer';
 import * as sass from 'sass';
 
 import pkg from './package.json' with { type: 'json' };
@@ -77,47 +76,12 @@ const headerTemplate = `
 <div class="header"><span class="resume-title">${RESUME_TITLE}</span> - <span class="resume-date">${formatDate(new Date())}</span> - <span class="version">v${pkg.version}</span></div>
 `;
 
-const footerTemplate = `
-<style>
-  .footer {
-    width: 100%;
-    text-align: right;
-    font-size: 10px;
-    padding-right: 30px;
-  }
-</style>
-<div class="footer">
-<span class="pageNumber"></span>/<span class="totalPages"></span>
-</div>
-`;
-
-(async () => {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-
-  let mdContent = fs.readFileSync('./README.md', 'utf8');
-  mdContent = mdContent.replace('https://img.shields.io/npm/v/yangjunlong?label=%E6%9D%A8%E5%86%9B%E9%BE%99&logo=tsnode&logoColor=white', NPM);
-  const htmlContent = `
+let mdContent = fs.readFileSync('./README.md', 'utf8');
+mdContent = mdContent.replace('https://img.shields.io/npm/v/yangjunlong?label=%E6%9D%A8%E5%86%9B%E9%BE%99&logo=tsnode&logoColor=white', NPM);
+const htmlContent = `
     <style>${RESUME_SASS.css}</style>
     ${marked.parse(mdContent)}
   `;
 
-  await page.setContent(html(htmlContent));
-  await page.pdf({
-    path: `./dist/${RESUME_TITLE}.pdf`,
-    format: 'A4',
-    printBackground: true,
-    displayHeaderFooter: true,
-    headerTemplate,
-    footerTemplate,
-    margin: {
-      top: 36,
-      bottom: 36,
-      left: 36,
-      right: 36,
-    },
-  });
-  await browser.close();
-
-  fs.writeFileSync('./dist/index.html', html(htmlContent, headerTemplate));
-})();
+fs.mkdirSync('./dist');
+fs.writeFileSync('./dist/index.html', html(htmlContent, headerTemplate));
