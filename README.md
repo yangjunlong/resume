@@ -1,6 +1,6 @@
 # 杨军龙 ![email][email]
 
-[![杨军龙][npm]][npm-url]
+[![npm][npm]][npm-url]
 [![Build Status][build-status]][build-status-url]
 
 > There is only one heroism in the world：to see the world as it is and to love it.

@@ -1,0 +1,81 @@
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+name: release
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    outputs:
+      release-published: ${{ steps.release.outputs.release_created }}
+    steps:
+      - uses: googleapis/release-please-action@v4
+        id: release
+        with:
+          # this assumes that you have created a personal access token
+          # (PAT) and configured it as a GitHub action secret named
+          # `MY_RELEASE_PLEASE_TOKEN` (this secret name is not important).
+          token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
+          # this is a built-in strategy in release-please, see "Action Inputs"
+          # for more options
+          release-type: node
+          # create a release from a path other than the repository's root
+          # path: pkg/cmd
+          # The short ref name of the branch or tag that triggered
+          # the workflow run. For example, `main` or `1.x`
+          # target-branch: ${{ github.ref_name }}
+          
+          # If true, do not attempt to create releases. 
+          # This is useful if splitting release tagging from PR creation.
+          # skip-github-release: true
+
+  publish:
+    if: needs.release.outputs.release-published
+    runs-on: ubuntu-latest
+    needs: release
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 10
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          registry-url: https://registry.npmjs.org/
+
+      - name: Restore Cache
+        id: dependencies-cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            **/node_modules
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+              ${{ runner.os }}-pnpm-
+
+      - name: Install Dependencies 🔧
+        if: steps.dependencies-cache.outputs.cache-hit != 'true'
+        run: |
+          pnpm install
+
+      - name: Build ☕️
+        run: |
+          pnpm build
+
+      - name: Publish
+        run: |
+          npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}

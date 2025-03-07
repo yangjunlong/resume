@@ -5,16 +5,11 @@
   "type": "module",
   "main": "resume.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsx build.ts"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/yangjunlong/resume.git"
-  },
-  "dependencies": {
-    "marked": "^15.0.7",
-    "puppeteer": "^24.4.0",
-    "sass": "^1.85.1"
   },
   "keywords": [
     "杨军龙",
@@ -40,8 +35,16 @@
   ],
   "readme": "",
   "readmeFilename": "README.md",
+  "dependencies": {
+    "marked": "^15.0.7",
+    "puppeteer": "^24.4.0",
+    "sass": "^1.85.1"
+  },
   "devDependencies": {
     "eslint-config-sobird": "^0.2.16",
     "tsx": "^4.19.3"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }

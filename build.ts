@@ -10,6 +10,8 @@ const RESUME_SASS = sass.compile('./src/resume.scss');
 
 const RESUME_TITLE = pkg.keywords.slice(0, 3).join('_');
 
+const NPM = `https://img.shields.io/badge/%E6%9D%A8%E5%86%9B%E9%BE%99-v${pkg.version}-blue?logo=tsnode&logoColor=white`;
+
 const html = (content: string, header: string = '') => {
   return `<!DOCTYPE html>
 <html>
@@ -93,7 +95,8 @@ const footerTemplate = `
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
 
-  const mdContent = fs.readFileSync('./README.md', 'utf8');
+  let mdContent = fs.readFileSync('./README.md', 'utf8');
+  mdContent = mdContent.replace('https://img.shields.io/npm/v/yangjunlong?label=%E6%9D%A8%E5%86%9B%E9%BE%99&logo=tsnode&logoColor=white', NPM);
   const htmlContent = `
     <style>${RESUME_SASS.css}</style>
     ${marked.parse(mdContent)}
