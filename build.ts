@@ -9,7 +9,7 @@ const RESUME_SASS = sass.compile('./src/resume.scss');
 
 const RESUME_TITLE = pkg.keywords.slice(0, 3).join('_');
 
-const NPM = `https://img.shields.io/badge/%E6%9D%A8%E5%86%9B%E9%BE%99-v${pkg.version}-blue?logo=tsnode&logoColor=white`;
+const IPHONE = '<img class="iphone" src="https://img.shields.io/badge/%E7%94%B5%E8%AF%9D-15321871599-blue" alt="phone">';
 
 const html = (content: string, header: string = '') => {
   return `<!DOCTYPE html>
@@ -31,6 +31,9 @@ const html = (content: string, header: string = '') => {
         border-radius: 6px;
         padding: 32px;
       }
+      .iphone {
+        display: none;
+      }
       @media print {
           body {
             margin: 0;
@@ -40,6 +43,9 @@ const html = (content: string, header: string = '') => {
             border: none;
             padding: 0;
           }
+            .iphone {
+              display: inline;
+            }
       }
     </style>
   </head>
@@ -77,11 +83,11 @@ const headerTemplate = `
 `;
 
 let mdContent = fs.readFileSync('./README.md', 'utf8');
-mdContent = mdContent.replace('https://img.shields.io/npm/v/yangjunlong?label=%E6%9D%A8%E5%86%9B%E9%BE%99&logo=tsnode&logoColor=white', NPM);
+mdContent = mdContent.replace('<!-- iphone -->', IPHONE);
 const htmlContent = `
     <style>${RESUME_SASS.css}</style>
     ${marked.parse(mdContent)}
   `;
 
-fs.mkdirSync('./dist');
+fs.mkdirSync('./dist', { recursive: true });
 fs.writeFileSync('./dist/index.html', html(htmlContent, headerTemplate));
