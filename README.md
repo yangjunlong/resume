@@ -1,22 +1,21 @@
-# 杨军龙 ![email][email]
+<h1 align="center"> 杨军龙 <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-i%40sobird.me-brightgreen?logo=gmail&labelColor=blue&style=social" alt="email" style="max-width: 100%;"></h1>
 
 [![npm][npm]][npm-url]
 [![Build Status][build-status]][build-status-url]
 
-> There is only one heroism in the world：to see the world as it is and to love it.
-
 ## 自我介绍
-> 9年+WEB前端开发经验，主攻前端和NodeJS开发，有亿级PV产品线项目经验，带领3人团队从零构建一个WEB前端项目，包含了视频播放、地图展示、个人中心等功能。对模块化、组件化、性能优化有一定研究。
+> 先后曾在百度、小米、美团任职前端开发工程师，对大型复杂前端项目架构有丰富的经验，熟练使用Linux开发环境，熟练使用TypeScript开发，目前使用TypeScript开发了一个在本地运行[Github Acionts](https://developer.github.com/actions/)的开源工具[actions](https://github.com/sobird/actions)，用来运行本地仓库中定义的各种工作流。
 
 
 ## 工作经历
 **[北京三快在线科技有限公司](https://www.meituan.com/)（2019.10 - 2022.04）**
-  - [x] 负责团好货商家端和运营端前端开发，性能优化以及可用性体系建设。
+  - [x] 负责团好货商家端和运营端前端开发，性能优化以及可用性体系建设
+  - [x] 负责接入eslint&pre-commit等工具用于规范团队编码
+  - [x] 使用qiankun将商家端拆分为各业务模块可以自治的微应用
 
 **[北京小米移动软件有限公司](https://www.mi.com/)（2016.05 - 2019.05）** 
   - [x] 负责小米钱包，话费充值、生活缴费等应用开发
   - [x] 封装小米钱包Hybrid jssdk基础库
-  - [x] 前端性能(用户行为)数据收集
   - [x] 负责中后台系统的前端开发
 
 **[北京城市网邻信息技术有限公司](https://www.58.com/)（2015.09 - 2016.05）**
@@ -36,25 +35,15 @@
 
 **[普加信息智能（青岛）有限公司](http://www.pujia.com/)（2010.07 - 2011.04）**
   - [x] 负责公交/地图站点数据爬虫开发，自定义地图工具开发，jQuery图片轮播等插件开发
-  - [x] 学会使用SVN，Linux常用命令，LAMP环境搭建等
+  - [x] 学习使用SVN，Linux常用命令，LAMP环境搭建等
 
 ## 教育经历
-`2006.9` ~ `2010.6` [山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科
-
-## 编程能力
-* 熟悉程度：`JavaScript` > `NodeJs` > `PHP` > `HTML5` > `CSS3`
-* 精确实现UE图稿到交互页面
-* 熟练操作`Linux`系统，熟悉LA(N)MP环境部署配置
-* 熟练使用`VueJs`全家桶，了解源码实现
-* 对前端开发`规范化`、`平台化`、`工具化`有一定的探索能力
+[山东财经大学](http://www.sdufe.edu.cn/) `信息管理与信息系统专业` 本科 `2006.9` ~ `2010.6` 
 
 ## 联系方式
 ![email][email]
 [![blog][blog]][blog-url]
 [![github][github]][github-url]
-
-#### 彩蛋? :blush:
-[前端面试题库](https://github.com/yangjunlong/resume/wiki)
 
 ## 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。

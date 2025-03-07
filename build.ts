@@ -26,7 +26,7 @@ const html = (content: string, header: string = '') => {
         padding: 30px;
       }
       #resume {
-        max-width: 800px;
+        max-width: 720px;
         margin: 0 auto;
         border: 1px solid #d0d7de;
         border-radius: 6px;
