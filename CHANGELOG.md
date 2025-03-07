@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/yangjunlong/resume/compare/v1.0.3...v1.0.4) (2025-03-07)
+
+
+### Bug Fixes
+
+* publish config ([67c84ec](https://github.com/yangjunlong/resume/commit/67c84ec67255f34091c4422b07448eaa3eaa3326))
+
 ## [1.0.3](https://github.com/yangjunlong/resume/compare/v1.0.2...v1.0.3) (2025-03-07)
 
 
