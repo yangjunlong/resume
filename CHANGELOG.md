@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/yangjunlong/resume/compare/v1.0.1...v1.0.2) (2025-03-07)
+
+
+### Bug Fixes
+
+* hidden iphone ([8ef2fda](https://github.com/yangjunlong/resume/commit/8ef2fdab14087a79ba9a7de0a029054de7b0fac1))
+* remove puppeteer ([362a48c](https://github.com/yangjunlong/resume/commit/362a48cf2981990be4dffb95344fd0fb1493c9c2))
+
 ## [1.0.1](https://github.com/yangjunlong/resume/compare/v1.0.0...v1.0.1) (2025-03-07)
 
 
