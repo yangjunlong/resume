@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/yangjunlong/resume/compare/v1.0.4...v1.0.5) (2025-03-07)
+
+
+### Performance Improvements
+
+* 更新文案 ([6733c50](https://github.com/yangjunlong/resume/commit/6733c50e2775631ef71c425ba1ffbb9b4ece7ac4))
+
 ## [1.0.4](https://github.com/yangjunlong/resume/compare/v1.0.3...v1.0.4) (2025-03-07)
 
 
