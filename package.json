@@ -1,36 +1,47 @@
 {
+  "name": "yangjunlong",
+  "description": "杨军龙的个人简历",
+  "version": "0.2.5",
+  "type": "module",
+  "main": "resume.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangjunlong/resume.git"
+  },
+  "dependencies": {
+    "marked": "^15.0.7",
+    "puppeteer": "^24.4.0",
+    "sass": "^1.85.1"
+  },
+  "keywords": [
+    "杨军龙",
+    "前端开发工程师",
+    "简历",
+    "Junlong_Yang",
+    "Frontend_Engineer",
+    "Resume"
+  ],
+  "bugs": {
+    "url": "https://github.com/yangjunlong/resume/issues"
+  },
+  "author": {
     "name": "yangjunlong",
-    "description": "杨军龙的个人简历",
-    "version": "0.2.5",
-    "main": "resume.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/yangjunlong/resume.git"
-    },
-    "dependencies": {},
-    "keywords": [
-        "yangjunlong",
-        "杨军龙",
-        "resume",
-        "个人简历",
-        "cv",
-        "简历"
-    ],
-    "bugs": {
-        "url": "https://github.com/yangjunlong/resume/issues"
-    },
-    "author": {
-        "name": "yangjunlong"
-    },
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "https://github.com/yangjunlong/resume/blob/master/LICENSE"
-        }
-    ],
-    "readme": "",
-    "readmeFilename": "README.md"
+    "email": "i@sobird.me",
+    "url": "https://sobird.me"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/yangjunlong/resume/blob/master/LICENSE"
+    }
+  ],
+  "readme": "",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "eslint-config-sobird": "^0.2.16",
+    "tsx": "^4.19.3"
+  }
 }
