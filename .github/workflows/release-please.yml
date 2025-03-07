@@ -63,7 +63,7 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
-          node-version-file: .node-version
+          node-version: 20
           registry-url: https://registry.npmjs.org/
 
       - name: Restore Cache
